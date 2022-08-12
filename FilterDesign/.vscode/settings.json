@@ -1,0 +1,9 @@
+{
+    "python.linting.pylintEnabled": false,
+    "python.linting.enabled": true,
+    "python.linting.flake8Enabled": true,
+    "editor.fontSize": 13,
+    "python.linting.flake8Path": "/home/onur/anaconda3/envs/bin/flake8",
+    "python.linting.pylintPath": "/home/onur/anaconda3/envs/bin/pylint",
+    "python.linting.flake8Args": ["--max-line-length", "99"]
+}
