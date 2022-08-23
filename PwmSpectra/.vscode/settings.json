@@ -1,0 +1,7 @@
+{
+    "editor.fontSize": 13,
+    "python.pythonPath": "/home/onur/anaconda3/envs/electronic/bin/python",
+    "python.formatting.blackPath": "/home/onur/anaconda3/envs/electronic/bin/black",
+    "python.formatting.provider": "black",
+    "python.formatting.blackArgs": []
+}
